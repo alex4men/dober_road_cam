@@ -32,6 +32,6 @@ RUN sed -i -e 's+TO_REPLACE_PATH_TO_DARKNET+/var/local/darknet+g' config.json &&
 
 EXPOSE 8080 8070 8090
 
-COPY docker/build/desktop/launch.sh launch.sh
+COPY launch.sh launch.sh
 RUN chmod 777 launch.sh
 CMD ["./launch.sh"]
