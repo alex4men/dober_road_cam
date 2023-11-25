@@ -1,4 +1,4 @@
-# dober_minprir
+# Dober Team international hackaton 2023 (OpenDataCam fork)
 Решение кейса от Минприроды международного этапа хакатона Цифровой Прорыв 2023
 
 # Запуск
